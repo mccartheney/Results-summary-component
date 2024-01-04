@@ -6,9 +6,10 @@
         justify-content: center;
         align-items: center;
     }
+    
     .main {
         width: 40vw;
-        height: 50vh;
+        min-height: 50vh;
 
         flex-direction: row;
         box-shadow: 0px 8px 18px 8px hsla(0, 0%, 0%, 0.18);
@@ -17,16 +18,20 @@
 
     .scoreArea {
         width: 50%;
-        height: 100%;
         border-radius: 20px;
+        min-height: 50vh;
     }
-    
+    .score {
+        min-height: 50vh;
+    }
     .scorePoints {
         border-radius: 50%;
         width: 200px;
         height: 200px;
     }
-    
+    .scoreDescription {
+        margin-bottom: 50px;
+    }
     .scroreDescriptionHeader{
         margin-top: 50px;
         font-size: 30px;
@@ -40,7 +45,8 @@
     
     .scoreSummary {
         width: 50%;
-        height: 100%;
+        min-height: 50vh;
+        margin-top: 0px;
     }
     
 
