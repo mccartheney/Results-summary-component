@@ -46,5 +46,5 @@ Users should be able to:
 ## Author
 
 - gitHub - [Mccartheney]([https://www.your-site.com](https://github.com/mccartheney))
-- Frontend Mentor - [@Mccartheney Mendes](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Mccartheney Mendes](https://www.frontendmentor.io/profile/mccartheney)
 
